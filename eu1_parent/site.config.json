@@ -1,0 +1,50 @@
+{
+  "resource": {
+    "baseDomain": "evgenekr-pc_parentsite_eu1.com",
+    "dataCenter": "eu1",
+    "trustedSiteURLs": [
+      "evgenekr-pc_parentsite_eu1.com/*",
+      "*.evgenekr-pc_parentsite_eu1.com/*"
+    ],
+    "tags": [
+      "eu",
+      "test"
+    ],
+    "description": "EVGENEKR-PC_parentsite_eu1 - update 1",
+    "captchaProvider": "Google",
+    "settings": {
+      "CNAME": "",
+      "shortURLDomain": "",
+      "shortURLRedirMethod": "js",
+      "encryptPII": true
+    },
+    "trustedShareURLs": [
+      "bit.ly/*",
+      "fw.to/*",
+      "shr.gs/*",
+      "vst.to/*",
+      "socli.ru/*",
+      "s.gigya-api.cn/*"
+    ],
+    "enableDataSharing": true,
+    "isCDP": false,
+    "invisibleRecaptcha": {
+      "SiteKey": "",
+      "Secret": ""
+    },
+    "recaptchaV2": {
+      "SiteKey": "",
+      "Secret": ""
+    },
+    "funCaptcha": {},
+    "customAPIDomainPrefix": "",
+    "siteGroupConfig": {
+      "enableSSO": true,
+      "members": [
+        "3_BomH258n5UPDDlLgWxzNI2GG1cU9TfoeOMgdwTxT_O15UOivfAyFS6itqiXll4NO",
+        "3_oxXKbO5o00Yz0R1Ud1ukx1WmRMU3kP1xUsXfJMVAD0gByEmMFCq5bkimNvwzhi9B"
+      ]
+    }
+  },
+  "inheritFrom": null
+}

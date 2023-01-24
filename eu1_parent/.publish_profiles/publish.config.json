@@ -1,0 +1,6 @@
+{
+  "defaultProfile": "prod",
+  "profiles": [
+    "prod"
+  ]
+}

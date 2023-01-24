@@ -1,0 +1,14 @@
+{
+  "fields": {
+    "terms.tos": {
+      "type": "consent",
+      "format": "true",
+      "required": false,
+      "writeAccess": "clientCreate",
+      "consentVaultRetentionPeriod": 84,
+      "currentDocDate": "2018-03-05T00:00:00\u002B00:00",
+      "minDocDate": "2018-03-04T00:00:00\u002B00:00"
+    }
+  },
+  "$schema": "https://gist.githubusercontent.com/EugeneKrapivin/c71d445896a422e70b42035d087d9419/raw/327741c4cf46e3159eeacd2ecb7c178b98baebf3/schema.preferences,json"
+}

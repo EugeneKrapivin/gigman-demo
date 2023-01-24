@@ -1,0 +1,10 @@
+{
+  "id": "3bab7867-b375-4e0e-b201-800c10b255ea",
+  "name": "eu_test",
+  "version": 1,
+  "isTemplate": false,
+  "inheritFrom": null,
+  "sites": [
+    "eu1_parent\\site.project.json"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "fields": {
+    "terms": {
+      "required": false,
+      "type": "boolean",
+      "writeAccess": "clientModify"
+    },
+    "subscribe": {
+      "required": false,
+      "type": "boolean",
+      "writeAccess": "clientModify"
+    }
+  },
+  "$schema": "https://gist.githubusercontent.com/EugeneKrapivin/a8adfe1bbac7b0bf80497a456ea91822/raw/fe37ae3e097317a27e5aea193d4ba9ef683420fe/schema.data.json"
+}

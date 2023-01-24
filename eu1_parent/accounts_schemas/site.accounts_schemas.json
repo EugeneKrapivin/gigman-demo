@@ -1,0 +1,9 @@
+{
+  "inheritFrom": null,
+  "schemas": {
+    "data": "C:\\Users\\I347313\\Desktop\\GigTheMan\\eu_test\\eu1_parent\\accounts_schemas\\schema.data.json",
+    "profile": "C:\\Users\\I347313\\Desktop\\GigTheMan\\eu_test\\eu1_parent\\accounts_schemas\\schema.profile.json",
+    "subscriptions": "C:\\Users\\I347313\\Desktop\\GigTheMan\\eu_test\\eu1_parent\\accounts_schemas\\schema.subscriptions.json",
+    "preferences": "C:\\Users\\I347313\\Desktop\\GigTheMan\\eu_test\\eu1_parent\\accounts_schemas\\schema.preferences.json"
+  }
+}

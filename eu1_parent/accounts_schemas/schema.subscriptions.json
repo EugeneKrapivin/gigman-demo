@@ -1,0 +1,25 @@
+{
+  "fields": {
+    "demo_sub": {
+      "email": {
+        "required": false,
+        "type": "subscription",
+        "writeAccess": null,
+        "doubleOptIn": false,
+        "description": "bla bla sub",
+        "enableConditionalDoubleOptIn": false
+      }
+    },
+    "sub1": {
+      "email": {
+        "required": false,
+        "type": "subscription",
+        "writeAccess": null,
+        "doubleOptIn": false,
+        "description": null,
+        "enableConditionalDoubleOptIn": false
+      }
+    }
+  },
+  "$schema": "https://gist.githubusercontent.com/EugeneKrapivin/9196cb41eaf4568af5aa9ffbecd133bf/raw/86af60665816e62cbd3dfec1ef68cd489a4ecd1d/schema.subscriptions.json"
+}
